@@ -1,0 +1,38 @@
+# Public showcase repo: keep it docs-only
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node / frontend (avoid accidental source drop)
+node_modules/
+dist/
+.npmrc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Common app source folders (do NOT publish)
+src/
+server/
+scripts/
+public/
+
+# Java / Maven
+target/
+*.jar
+*.class
+.mvn/
+
+# Secrets / env
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials*.json
+
