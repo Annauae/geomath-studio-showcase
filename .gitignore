@@ -36,3 +36,9 @@ target/
 *.p12
 credentials*.json
 
+# Media (keep local files uncommitted by default)
+media/images/*
+!media/images/README.md
+media/videos/*
+!media/videos/README.md
+

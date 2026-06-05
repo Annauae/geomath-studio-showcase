@@ -33,8 +33,3 @@ An interactive math canvas for learning and teaching: **dynamic geometry**, **fu
 - **3–5 minute demo flow**: [`docs/DEMO.en.md`](docs/DEMO.en.md)
 - **FAQ**: [`docs/FAQ.en.md`](docs/FAQ.en.md)
 
-## Media (screenshots / videos)
-
-- **Images**: [`media/images/`](media/images/)
-- **Videos**: [`media/videos/`](media/videos/)
-

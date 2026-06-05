@@ -39,8 +39,3 @@
 - **3–5 分钟演示路线**：[`docs/DEMO.md`](docs/DEMO.md)
 - **常见问题**：[`docs/FAQ.md`](docs/FAQ.md)
 
-## 媒体（截图 / 视频）
-
-- **图片**：[`media/images/`](media/images/)
-- **视频**：[`media/videos/`](media/videos/)
-
