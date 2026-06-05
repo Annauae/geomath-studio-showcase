@@ -2,6 +2,8 @@
 
 # GeoMath Studio
 
+**中文** | [English](README.en.md)
+
 面向数学学习与教学的交互式画布：把**动态几何**、**函数图像**与**AI 作图助手**放在同一个空间里，帮助你更快把题目“画出来、看明白、讲清楚”。
 
 - **在线体验**：`http://geomath.cn:18080/`
@@ -36,4 +38,9 @@
 - **架构概览**：[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
 - **3–5 分钟演示路线**：[`docs/DEMO.md`](docs/DEMO.md)
 - **常见问题**：[`docs/FAQ.md`](docs/FAQ.md)
+
+## 媒体（截图 / 视频）
+
+- **图片**：[`media/images/`](media/images/)
+- **视频**：[`media/videos/`](media/videos/)
 
